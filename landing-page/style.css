@@ -1,0 +1,227 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header {
+    width: 100%;
+    /* background-color:lightgray; */
+    /* padding: 100px; */
+
+}
+
+.first {
+    width: 50%;
+    padding: 30px;
+    /* background-color: red; */
+    float: left;
+    padding-top: 15px;
+}
+
+.second {
+    width: 500px;
+    padding: 30px;
+    /* background-color: orange; */
+    text-align: right;
+    float: right;
+    padding-top: 22px;
+
+}
+
+.one {
+    margin-left: 80px;
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: 18px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.one:hover {
+    color: black;
+}
+
+.one:active {
+    color: black;
+}
+
+.two {
+    margin-right: 90px;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: right;
+    border-radius: 5px;
+    cursor: pointer;
+
+
+}
+
+.two:hover {
+    color: white;
+}
+
+.section {
+    background-image: url(images/pro.jpg);
+    background-attachment: fixed;
+
+    /* margin-left: 200px; */
+    /* margin-right: 200px; */
+    padding-top: 50px;
+    width: 100%;
+    height: 400px;
+    font-size: 40px;
+    text-align: center;
+    /* background-color: purple; */
+    color: white;
+    overflow: hidden;
+}
+
+input {
+    margin-left: 10px;
+    margin-top: 50px;
+    width: 400px;
+    height: 70px;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 18px;
+
+}
+
+span {
+    margin-left: 10px;
+    background-color: blue;
+    color: white;
+    padding: 24px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+/* .dharshan{
+    width: 100%;
+    background-color: red;
+} */
+.a {
+    /* margin-top: 102px; */
+    /* margin-left: 100px; */
+    font-size: 18px;
+    line-height: 1.8;
+    text-align: center;
+    width: 33.33%;
+    float: left;
+    padding: 50px;
+    /* background-color: yellow; */
+    overflow: hidden;
+}
+
+.b{
+    /* margin-top:100px ; */
+     /* margin-right: 50px;   */
+    width:50%;
+    text-align: left;
+    line-height: 1.8;  
+    float: left;
+    padding: 50px;
+    /* background-color: brown; */
+    
+   
+}
+.c {
+    width: 50%;
+    float: right;
+    /* background-color: yellowgreen; */
+}
+.d {
+    width: 50%;
+    float: left;
+    /* background-color: green; */
+}
+.e{
+    /* margin-top:100px ; */
+     /* margin-right: 50px;   */
+    width:50%;
+    text-align: left;
+    line-height: 1.8;  
+    float: right;
+    /* padding: 50px; */
+    /* background-color: red; */
+}
+.f{
+    /* margin-top:100px ; */
+     /* margin-right: 50px;   */
+    width:50%;
+    text-align: left;
+    line-height: 1.8;  
+    float: left;
+    /* padding: 50px; */
+    /* background-color: hotpink; */
+    
+   
+}
+.g {
+    width: 50%;
+    float: right;
+    
+    /* background-color: salmon; */
+}
+
+.footer {
+    margin-top: 250px;
+    margin-left: 500px;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+.pic {
+    margin-top: 50px;
+    /* margin-left: 100px; */
+    font-size: 14px;
+    line-height: 1.8;
+    text-align: center;
+    width: 33.3%;
+    padding: 10px;  
+    float: left;
+}
+
+.bottom {
+    background-image: url(images/pro.jpg);
+    background-attachment: fixed;
+    height: 400px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, Geneva, Tahoma, sans-serif, Helvetica, sans-serif, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Tahoma, Geneva, Verdana, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(236, 229, 229);
+    text-align: center;
+    /* background-color: purple; */
+    color: white;
+    overflow: hidden;
+}
+li,ul{
+    /* background-color: blueviolet; */
+    display: inline-block;
+    padding: 15px;
+    /* opacity: 0.7; */
+    color: rgb(77, 164, 218);
+    cursor: pointer;
+    /* width: 50%; */
+}
+.foot{
+
+    width:50%;
+    text-align: left;
+    line-height: 0.5;  
+    float: left;
+    padding: 50px;
+    /* background-color: brown; */
+}
+.logo{
+    width: 50%;
+    float: right;
+    /* background-color: yellowgreen; */
+    padding: 10px;
+   
+}
